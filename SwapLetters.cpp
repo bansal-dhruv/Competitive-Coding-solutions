@@ -8,8 +8,10 @@ ll mod=1000000009;
 ll a=0,b=0,ab=0,ba=0;
 std::vector<ll> bav;
 std::vector<ll> abv;
+
 int main()
-{	ios
+{	
+        ios
 	int n;
 	string s1,s2;
 	cin>>n;
